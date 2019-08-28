@@ -1,0 +1,7 @@
+id: adding_an_item
+name: "Guide 1: Adding an Item"
+version: 1.0
+author: Zatherz
+description: Part of the Semi Guides
+dll: mod.dll
+api_version: 1

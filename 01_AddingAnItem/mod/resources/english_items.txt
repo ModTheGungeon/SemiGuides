@@ -1,0 +1,7 @@
+#MY_ITEM_NAME
+My Item
+#MY_ITEM_SHORT_DESC
+Very Cool Item
+#MY_ITEM_LONG_DESC
+This Item Is Very Cool
+Yes
